@@ -1,11 +1,11 @@
 package com.ess.timer;
 
 
-import com.ess.timer.event.Category;
-import com.ess.timer.event.Event;
-import com.ess.timer.event.EventRepository;
-import com.ess.timer.usr.Usr;
-import com.ess.timer.usr.UsrRepository;
+import com.ess.timer.domain.Category;
+import com.ess.timer.domain.Event;
+import com.ess.timer.service.EventRepository;
+import com.ess.timer.domain.Usr;
+import com.ess.timer.service.UsrRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

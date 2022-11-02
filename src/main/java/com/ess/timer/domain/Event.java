@@ -1,4 +1,4 @@
-package com.ess.timer.event;
+package com.ess.timer.domain;
 
 import lombok.Data;
 import org.joda.time.Instant;

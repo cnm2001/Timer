@@ -1,6 +1,6 @@
-package com.ess.timer.usr;
+package com.ess.timer.domain;
 
-import com.ess.timer.event.Event;
+import com.ess.timer.domain.Event;
 import lombok.Data;
 
 import javax.persistence.*;

@@ -1,4 +1,4 @@
-package com.ess.timer.event;
+package com.ess.timer.service;
 
 public class EventService {
 }

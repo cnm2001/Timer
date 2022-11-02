@@ -8,6 +8,9 @@ class TimerApplicationTests {
 
     @Test
     void contextLoads() {
+        ShoppingCart shoppingCart = new ShoppingCart();
+        shoppingCart.checkout();
+
     }
 
 }

@@ -1,5 +1,6 @@
-package com.ess.timer.usr;
+package com.ess.timer.service;
 
+import com.ess.timer.domain.Usr;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
