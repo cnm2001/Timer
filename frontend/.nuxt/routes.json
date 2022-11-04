@@ -1,0 +1,30 @@
+[
+  {
+    "name": "index copy",
+    "path": "/index%20copy",
+    "component": "/Users/neucloud/Documents/GitHub/Timer/frontend/pages/index copy.vue",
+    "chunkName": "pages/index copy",
+    "_name": "_63417f1c"
+  },
+  {
+    "name": "index copy 2",
+    "path": "/index%20copy%202",
+    "component": "/Users/neucloud/Documents/GitHub/Timer/frontend/pages/index copy 2.vue",
+    "chunkName": "pages/index copy 2",
+    "_name": "_7d1c192e"
+  },
+  {
+    "name": "index copy 3",
+    "path": "/index%20copy%203",
+    "component": "/Users/neucloud/Documents/GitHub/Timer/frontend/pages/index copy 3.vue",
+    "chunkName": "pages/index copy 3",
+    "_name": "_7d2a30af"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/neucloud/Documents/GitHub/Timer/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_277589c9"
+  }
+]
