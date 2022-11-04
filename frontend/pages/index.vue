@@ -73,10 +73,6 @@ export default {
       <span>v0.001</span>
     </div>
 
-    <div class="timer">
-      <div>{{ nowTime }}</div>
-    </div>
-
     <div class="timeGroup">
       <div id="timeCon">{{ str }}</div>
       <button id="start" @click="start">开始计时</button>
